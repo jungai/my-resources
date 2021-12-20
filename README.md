@@ -1,0 +1,16 @@
+## Youtube
+
+- [Fireship](https://www.youtube.com/c/Fireship)
+- [JackHerrington](https://www.youtube.com/c/JackHerrington)
+- [TailwindLabs](https://www.youtube.com/c/TailwindLabs)
+- [Be A Better Dev](https://www.youtube.com/channel/UCraiFqWi0qSIxXxXN4IHFBQ) - about aws things
+- [ProgramWithErik](https://www.youtube.com/c/ProgramWithErik)
+- [ChrisAtMachine](https://www.youtube.com/c/ChrisAtMachine) - neovim (lunarvim)
+- [DistroTube](https://www.youtube.com/c/DistroTube/featured) - about linux
+- [Tsoding](https://www.youtube.com/c/TsodingDaily/videos) - streamer
+- [Let's Get Rusty](https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w)
+- [Ben Awad](https://www.youtube.com/c/BenAwad97)
+- [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [Patiphan](https://www.youtube.com/c/PatiphanPhengpao) - thai
+- [CleverProgrammer](https://www.youtube.com/c/CleverProgrammer)
+- [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA)
