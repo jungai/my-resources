@@ -15,4 +15,6 @@
 - [CleverProgrammer](https://www.youtube.com/c/CleverProgrammer)
 - [Sonny Sangha](https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA)
 - [Lee Robinson](https://www.youtube.com/channel/UCZMli3czZnd1uoc1ShTouQw)
+- [devaslife](https://www.youtube.com/c/devaslife)
+- [Neil Sabde](https://www.youtube.com/channel/UCIfWXqdiEvM8nBFAA594Kjw/videos)
 - [Born To Dev](https://www.youtube.com/c/BorntodevTH)
