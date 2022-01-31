@@ -20,3 +20,6 @@
 - [Born To Dev](https://www.youtube.com/c/BorntodevTH)
 - [GolangDojo](https://www.youtube.com/c/GolangDojo)
 - [Coding Garden](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+- [codedamn](https://www.youtube.com/c/codedamn)
+- [goto;](https://www.youtube.com/c/GotoConferences) - about conferences
+- [Honeypot](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA) - tech documentary e.g. vue, elixir, k8s
