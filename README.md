@@ -20,3 +20,16 @@
 - [Born To Dev](https://www.youtube.com/c/BorntodevTH)
 - [GolangDojo](https://www.youtube.com/c/GolangDojo)
 - [uidotdev](https://www.youtube.com/watch?v=rivBfgaEyWQ&t=2s)
+- [Coding Garden](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw)
+- [codedamn](https://www.youtube.com/c/codedamn)
+- [goto;](https://www.youtube.com/c/GotoConferences) - about conferences
+- [Honeypot](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA) - tech documentary e.g. vue, elixir, k8s
+
+## Twitch
+
+- [tsoding](https://www.twitch.tv/tsoding)
+- [togglebit](https://www.twitch.tv/togglebit) - rust
+- [teej_dv](https://www.twitch.tv/teej_dv) - neovim, lua
+- [whitep4nth3r](https://www.twitch.tv/whitep4nth3r)
+- [ppy](https://www.twitch.tv/ppy) - osu dev
+- [theprimeagen](https://www.twitch.tv/theprimeagen)
