@@ -19,3 +19,4 @@
 - [Neil Sabde](https://www.youtube.com/channel/UCIfWXqdiEvM8nBFAA594Kjw/videos)
 - [Born To Dev](https://www.youtube.com/c/BorntodevTH)
 - [GolangDojo](https://www.youtube.com/c/GolangDojo)
+- [uidotdev](https://www.youtube.com/watch?v=rivBfgaEyWQ&t=2s)
