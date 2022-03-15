@@ -25,6 +25,7 @@
 - [goto;](https://www.youtube.com/c/GotoConferences) - about conferences
 - [Honeypot](https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA) - tech documentary e.g. vue, elixir, k8s
 - [Leigh Halliday](https://www.youtube.com/c/leighhalliday/videos)
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/videos)
 
 ## Twitch
 
